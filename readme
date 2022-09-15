@@ -1,2 +1,0 @@
-Apply Kustomization
-kubectl apply -k ./
